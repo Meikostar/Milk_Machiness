@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:95
+-keep class com.canplay.milk.base.BaseApplication { <init>(...); }
+
